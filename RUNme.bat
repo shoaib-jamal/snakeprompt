@@ -10,6 +10,7 @@ if "%~1" == "startController" goto :controller
 
 ::-------------------------------------
 ::Setting the default theme of the game
+
 color 27
 
 ::---------------------------------------------------------------------
