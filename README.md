@@ -4,7 +4,7 @@ An open source, batch set and a retro style snake game for Windows Platforms
 # Guide
 Based on Batch CMD, this game can also run on your POTATO PC, but only on Windows Platform
 
-To start the game run SnakePrompt.bat
+To start the game execute RunME.bat
 
 Note that the highscores and settings are stored in C:\Users\YourUserName\Snake
 
