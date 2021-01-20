@@ -3,7 +3,7 @@
 An open source, batch set and a retro style snake game for Windows Platforms
 
 # Guide
-Based on Batch CMD, this game can also run on your POTATO PC, but only on Windows Platform
+Based on Batch CMD, this game can run on Windows Platform with Command Prompt
 
 To start the game execute RunME.bat
 
@@ -15,7 +15,7 @@ If you encounter flickering in-game, then, in the game menu, select Graphic opti
 
 If you want to edit the source, right-click RUNme.bat, open with Notepad++.
 
-For any bugs, don't hesitate to contact menu
+For any bugs, don't hesitate to contact me
 
 # License
 SnakePrompt is licensed under the GNU General Public License (GPL v3.0)
