@@ -13,7 +13,7 @@ If you want to reset them just simply delete the Snake Folder
 
 If you encounter flickering in-game, then, in the game menu, select Graphic options and toggle VT100 mode on or off.
 
-If you want to edit the source, right-click RUNme.bat, open with Notepad++.
+If you want to edit the source, right-click RUNme.bat, open with Notepad++ or your favourite IDE
 
 For any bugs, don't hesitate to contact me
 
