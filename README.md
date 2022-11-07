@@ -2,7 +2,7 @@
 # SnakePrompt
 An open source, batch set and a retro style snake game for Windows Platforms
 
-# Guide
+# Running
 Based on Batch CMD, this game can run on Windows Platform with Command Prompt
 
 To start the game execute RunME.bat
