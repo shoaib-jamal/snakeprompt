@@ -1,5 +1,6 @@
-![Image of SnakePrompt](https://i.ibb.co/whgbbrm/512x512bb.jpg)
-# SnakePrompt v1.0
+![SnakePrompt](https://i.ibb.co/Lrv9K5P/output-onlinepngtools.png)
+
+# SnakePrompt
 An open source, batch set and a retro style snake game for Windows Platforms
 
 # Running
@@ -15,7 +16,7 @@ If you encounter flickering in-game, then, in the game menu, select Graphic opti
 
 If you want to edit the source, right-click RUNme.bat, open with Notepad++ or your favourite IDE
 
-For any bugs, don't hesitate to contact me
+Enjoy!
 
 # License
 SnakePrompt is licensed under the GNU General Public License (GPL v3.0)
