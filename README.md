@@ -1,5 +1,5 @@
 ![Image of SnakePrompt](https://i.ibb.co/whgbbrm/512x512bb.jpg)
-# SnakePrompt
+# SnakePrompt v1.0
 An open source, batch set and a retro style snake game for Windows Platforms
 
 # Running
