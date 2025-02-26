@@ -1,22 +1,32 @@
-![SnakePrompt](https://i.ibb.co/Lrv9K5P/output-onlinepngtools.png)
+# SnakePrompt  
 
-# SnakePrompt
-An open source, batch set and a retro style snake game for Windows Platforms
+**SnakePrompt** is an open-source, batch-script-based retro-style snake game for Windows.  
 
-# Running
-Based on Batch CMD, this game can run on Windows Platform with Command Prompt
+## Features  
+- Classic snake gameplay in a command-line interface  
+- High score tracking and customizable settings  
+- VT100 mode for improved graphics rendering  
+- Fully open-source and easy to modify  
 
-To start the game execute RunME.bat
+## Installation & Running  
+1. Download or clone this repository.  
+2. Run **RunME.bat** using Command Prompt.  
 
-Note that the highscores and settings are stored in C:\Users\YourUserName\Snake
+## High Scores & Settings  
+High scores and settings are stored in: 
 
-If you want to reset them just simply delete the Snake Folder
+`C:\Users\YourUserName\Snake`
 
-If you encounter flickering in-game, then, in the game menu, select Graphic options and toggle VT100 mode on or off.
+To reset them, simply delete the **Snake** folder.  
 
-If you want to edit the source, right-click RUNme.bat, open with Notepad++ or your favourite IDE
+## Troubleshooting  
+- **Screen flickering?**  
+  Go to the game menu, select **Graphics Options**, and toggle **VT100 mode** on or off.  
+- **Want to modify the source?**  
+  Right-click **RunME.bat**, select **Open with**, and use **Notepad++** or your preferred IDE.  
 
-Enjoy!
+## License  
+This project is licensed under the **GNU General Public License (GPL v3.0)**.  
 
-# License
-SnakePrompt is licensed under the GNU General Public License (GPL v3.0)
+## Contributing  
+Pull requests are welcome! Feel free to fork the repository and submit your improvements.  
