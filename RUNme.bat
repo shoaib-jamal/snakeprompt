@@ -1,7 +1,6 @@
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:: SnakePrompt - An open source, batch set and a retro style snake game  ::
-:: By Shoaib Jamal - https://shoaib.tk                                   ::
-:: Fork me on Github: https://github.com/shoaib-jamal                    ::
+:: SnakePrompt - Batch-script-based retro-style snake game for Windows   ::
+:: https://github.com/shoaib-jamal/snakeprompt                           ::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 @echo off
